@@ -17,7 +17,7 @@ const CardDisplay=({cards})=>{
     
     const abc=()=>{
         setImageLoad(false)
-        console.log("loading")
+        
     }
 
     useEffect(()=>{
